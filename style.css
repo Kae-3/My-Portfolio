@@ -59,7 +59,7 @@ section {
 .Name-gradient {
     font-size: 70px;
     font-family: cursive;
-    background: linear-gradient(135deg, #ae0c0c, #7700ff, #1d91ae, #646205);
+    background: linear-gradient(135deg, #ffffff, #ffffff);
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
     background-clip: text;
